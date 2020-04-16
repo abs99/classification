@@ -1,2 +1,2 @@
 #### Summer Training assigment
-##### Classification model Telephonic Advertisement
+Classification model for telephonic advertisement
